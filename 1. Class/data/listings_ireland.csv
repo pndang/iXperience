@@ -1,0 +1,13 @@
+id,name,host_id,host_name,neighbourhood_group,neighbourhood,latitude,longitude,room_type,price,minimum_nights,number_of_reviews,last_review,reviews_per_month,calculated_host_listings_count,availability_365,number_of_reviews_ltm,license
+44077,cosy comfortable Irish cottage twin,193005,Teresa,,Dn Laoghaire-Rathdown,53.29178,-6.25792,Private room,67,3,240,6/4/22,1.76,2,123,13,
+85156,Cosy Comfortable Irish Cottage  1 Double Bed,193005,Teresa,,Dn Laoghaire-Rathdown,53.29209,-6.25624,Private room,67,3,196,6/6/22,1.46,2,94,14,
+159889,Friendly Single Room,766611,Margaret,,Dublin City,53.39027,-6.23547,Private room,43,2,334,6/5/22,2.68,3,261,23,
+162809,5.5 miles south of Dublin City :^),777681,Robbie,,Dn Laoghaire-Rathdown,53.28326,-6.19188,Private room,81,1,309,6/5/22,3.61,2,2,25,
+165828,Pádraig Pearse apt. Kilmainham,790601,Grainne,,Dublin City,53.33744,-6.32363,Entire home/apt,270,3,63,5/3/22,0.49,5,73,18,
+165829,"The ""Michael Collins"" apartment",790601,Grainne,,Dublin City,53.33744,-6.32363,Entire home/apt,244,3,68,5/30/22,0.54,5,14,14,
+178860,Georgian House in Heart of City Ctr,856312,Danielle,,Dublin City,53.33281,-6.2675,Private room,80,2,313,8/19/21,2.63,2,0,1,
+237465,Cozy 1 bed apt 10 mins to airport. total privacy,1245198,Amanda,,Dublin City,53.39558,-6.17524,Entire home/apt,65,1,355,6/5/22,2.79,3,257,61,
+245903,Single cosy bedroom in Lucan.,1289720,Sheila,,South Dublin,53.34636,-6.41734,Private room,30,30,42,10/31/21,0.35,1,56,3,
+292757,Old World Converted Stableyard with Swimming Pool,1515549,Sarah,,Dublin City,53.36949,-6.34889,Entire home/apt,121,1,351,6/6/22,2.95,1,112,19,
+302554,Peaceful retreat for 5 - excellent location,1557844,Liam And Fiona,,Dublin City,53.35681,-6.29094,Entire home/apt,217,2,59,6/1/22,0.47,8,200,4,
+302634,Studio sleeps 2 city ctr 10 mins - Molly Malone,1557844,Liam And Fiona,,Dublin City,53.35681,-6.29094,Entire home/apt,93,2,94,5/31/22,0.75,8,143,10,

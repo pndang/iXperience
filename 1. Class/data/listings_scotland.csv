@@ -1,0 +1,11 @@
+id,name,host_id,host_name,neighbourhood_group,neighbourhood,latitude,longitude,room_type,price,minimum_nights,number_of_reviews,last_review,reviews_per_month,calculated_host_listings_count,availability_365,number_of_reviews_ltm,license
+15420,Georgian Boutique Apt City Centre,60423,Charlotte,,"Old Town, Princes Street and Leith Street",55.95759,-3.18805,Entire home/apt,90,3,391,3/13/22,2.88,1,205,51,
+24288,"Cool central Loft, sleeps 4, 2 double bed+en-suite",46498,Gordon,,"Canongate, Southside and Dumbiedykes",55.94383,-3.18445,Entire home/apt,95,3,228,8/25/21,1.63,1,17,11,
+38628,Edinburgh Holiday Let,165635,Trish,,Joppa,55.94215,-3.0964,Entire home/apt,52,4,60,3/13/22,0.64,2,243,4,
+44552,Double room - spacious Leith flat,195950,Shaun,,South Leith,55.96612,-3.17184,Private room,37,2,216,2/28/22,1.53,2,43,17,
+54188,The Four Sisters Boatel,253850,Natalie,,Dalry and Fountainbridge,55.94217,-3.20863,Entire home/apt,164,1,37,11/2/21,0.32,2,226,3,
+55881,Lovely central apartment sleeps 6,264345,Susie,,Hillside and Calton Hill,55.95935,-3.17713,Entire home/apt,145,2,269,3/6/22,2.03,1,118,19,
+58682,Beautiful Apartment in Edinburgh,281109,Rona,,Comely Bank,55.95508,-3.21625,Entire home/apt,176,3,125,3/14/22,1.2,4,126,12,
+74877,Stunning luxury 2 Bedroom Loft Apartment  Balcony,407268426,Mary,,North Leith and Newhaven,55.97785,-3.17872,Entire home/apt,115,2,121,3/1/22,0.97,1,171,23,
+85620,Rustic Urban Retreat in City View Flat,334208,Carrie,,Leith (Albert Street),55.96252,-3.17595,Entire home/apt,77,2,550,3/11/22,4.22,1,186,81,
+93904,Central Ensuite Room +Hot Breakfast,502783,Brett,,Deans Village,55.94571,-3.2189,Private room,55,1,516,3/13/22,3.91,1,241,37,
